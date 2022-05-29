@@ -1,0 +1,9 @@
+﻿[*.cs]
+
+# SA1210: Using directives should be ordered alphabetically by namespace
+dotnet_diagnostic.SA1210.severity = none
+dotnet_diagnostic.SA1309.severity=silent
+
+# SA1101: Prefix local calls with this
+dotnet_diagnostic.SA1101.severity = none
+dotnet_diagnostic.SA1600.severity=silent
